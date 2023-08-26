@@ -48,7 +48,7 @@ async function getAssets() {
         `https://cdfps-iyaaa-aaaae-qabta-cai.raw.ic0.app/${nftIndex}.svg`,
       ],
       thumbnailUrl: [
-        `https://cdfps-iyaaa-aaaae-qabta-cai.raw.ic0.app/${nftIndex}_low.svg`,
+        `https://cdfps-iyaaa-aaaae-qabta-cai.raw.ic0.app/${nftIndex}_thumbnail.svg`,
       ],
       metadata: [
         {
